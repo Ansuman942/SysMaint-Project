@@ -31,6 +31,8 @@ You might also want to look at `log_monitor.sh` to change which log file it's wa
 
 ### bash
 bash main.sh
+
+
 This will bring up the menu, and you can just pick the task you want to run.
 ### Heads Up: Sudo Required
 You'll need sudo (admin) permissions to run a couple of these scripts:
