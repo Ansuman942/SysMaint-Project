@@ -17,7 +17,7 @@ I also added some basic error handling and logging to each script so you can see
 
 ### Clone the repo:
 
-###Bash
+Bash
 
 git clone [https://github.com/Ansuman942/SysMaint-Project.git](https://github.com/Ansuman942/SysMaint-Project.git)
 cd SysMaint-Project
@@ -25,7 +25,7 @@ cd SysMaint-Project
 Set up your config (Important!) Before you run it, you'll need to open backup.sh and change the source/destination directories to match your system.
 You might also want to look at log_monitor.sh to change which log file it's watching or what keywords it's looking for.
 Run the main menu:
-###Bash
+Bash
 bash main.sh
 This will bring up the menu, and you can just pick the task you want to run.
 Heads Up: Sudo Required
