@@ -31,7 +31,7 @@ You might also want to look at `log_monitor.sh` to change which log file it's wa
 
 ### Run the main menu:
 
-### bash
+### Bash
 bash main.sh
 
 
