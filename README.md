@@ -20,6 +20,8 @@ I also added some basic error handling and logging to each script so you can see
 Bash
 
 git clone [https://github.com/Ansuman942/SysMaint-Project.git](https://github.com/Ansuman942/SysMaint-Project.git)
+
+
 cd SysMaint-Project
 
 ### Set up your config (Important!)
