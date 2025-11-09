@@ -1,5 +1,3 @@
-# SysMaint-Project
-A quick menu script for running backups, updates, and log checks.
 Bash Scripting Suite for System Maintenance
 This is a simple suite of Bash scripts I put together for a project. The goal is to automate a few common system maintenance tasks from one central menu. 
 It's not super fancy, but it gets the job done.
